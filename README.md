@@ -33,7 +33,7 @@
   <img alt="MikroTik" src="https://img.shields.io/badge/-MikroTik-13aa52?style=flat-square&logo=mikrotik&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-46a2f1?style=flat-square&logo=proxmox&logoColor=white" />
-  <img alt="Linux System Administration" src="https://img.shields.io/badge/-Linux-46a2f1?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Linux%20System$20Administration" src="https://img.shields.io/badge/-Linux-46a2f1?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 
