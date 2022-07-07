@@ -15,14 +15,6 @@
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vatari&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatari&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
->
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-
-https://img.shields.io/badge/<JS Advanced>-<completed>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a
+<h3>Where to find me</h3>
+<p><a href="https://github.com/vatari" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/Petar Zhelev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
