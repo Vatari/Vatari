@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Petar 👋
 
-- 🌱 I’m currently learning Web Development with JS
+- 🌱 I’m currently Front End JS Web Developer
 - 👀 I’m interested in Web Development, Game Development, CyberSecurity
 - 💻 I fell in love to coding from the first moment.
 - 💬 Ask me about everything.
