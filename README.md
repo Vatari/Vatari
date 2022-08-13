@@ -26,7 +26,7 @@
  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=black" />
  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+ </p>
 
 <h3>Additional skills</h3>
 <p>
@@ -35,7 +35,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-46a2f1?style=flat-square&logo=proxmox&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux System Administration-46a2f1?style=flat-square&logo=linux&logoColor=white" />
-</p>
+ <img alt="Zabbix" src="https://img.shields.io/badge/-Zabbix-13aa52?style=flat-square&logo=zabbix&logoColor=white" />
+ </p>
 
 
 
