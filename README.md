@@ -18,6 +18,7 @@
  <img alt="Javascript" src="https://img.shields.io/badge/-JS-13aa52?style=flat-square&logo=Javascript&logoColor=yellow" />
  <img alt="AJAX" src="https://img.shields.io/badge/-AJAX-13aa52?style=flat-square&logo=ajax&logoColor=yellow" />
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+ <img alt="Express" src="https://img.shields.io/badge/-Express-43853d?style=flat-square&logo=Express&logoColor=white" />
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <!--<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> -->
