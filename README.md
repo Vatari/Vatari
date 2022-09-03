@@ -2,7 +2,7 @@
 ## Hi there, I'm Petar 👋
 
 - 🌱 I’m currently Front End JS Web Developer, and on my learning curve to Full Stack
-- 👀 I’m interested in Web Development, Game Development, CyberSecurity
+- 👀 I’m interested in Web Development, Game Development, Network Security
 - 💻 I fell in love to coding from the first moment.
 - 💬 Ask me about everything.
 - 📫 How to reach me: majestic13@gmail.com
