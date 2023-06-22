@@ -36,7 +36,8 @@
   <img alt="pfSense" src="https://img.shields.io/badge/-pfSense-13aa52?style=flat-square&logo=pfsense&logoColor=white" />
   <img alt="MikroTik" src="https://img.shields.io/badge/-MikroTik-13aa52?style=flat-square&logo=mikrotik&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-46a2f1?style=flat-square&logo=proxmox&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-46a2f1?style=flat-square&logo=terraform&logoColor=white" />
+   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-46a2f1?style=flat-square&logo=proxmox&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux System Administration-46a2f1?style=flat-square&logo=linux&logoColor=white" />
  <img alt="Zabbix" src="https://img.shields.io/badge/-Zabbix-13aa52?style=flat-square&logo=zabbix&logoColor=white" />
  </p>
