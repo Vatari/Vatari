@@ -40,7 +40,7 @@
    <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-46a2f1?style=flat-square&logo=proxmox&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux System Administration-46a2f1?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Zabbix" src="https://img.shields.io/badge/-Zabbix-13aa52?style=flat-square&logo=zabbix&logoColor=white" />
-  <img alt="DevOps" src="https://img.shields.io/badge/-Zabbix-13aa52?style=flat-square&logo=devops&logoColor=white" />
+  <img alt="DevOps" src="https://img.shields.io/badge/-DevOps?style=flat-square&logo=devops&logoColor=white" />
 </p>
 
 
