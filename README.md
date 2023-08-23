@@ -16,7 +16,7 @@
 <h3>Currently code and learn with</h3>
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/-JS-13aa52?style=flat-square&logo=Javascript&logoColor=yellow" />
- <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=Python&logoColor=blue" />
+ <img alt="Python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=Python&logoColor=yellow" />
   <img alt="AJAX" src="https://img.shields.io/badge/-AJAX-13aa52?style=flat-square&logo=ajax&logoColor=yellow" />
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  <img alt="Express" src="https://img.shields.io/badge/-Express-43853d?style=flat-square&logo=Express&logoColor=white" />
