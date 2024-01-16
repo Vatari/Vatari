@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Petar 👋
 
-- 🌱 I’m currently JS Full Stack Developer
+- 🌱 I’m currently Software Engineer / Full Stack Developer
 - 👀 I’m interested in Web Development, Game Development, Network Security
 - 💻 I fell in love to coding from the first moment.
 - 💬 Ask me about everything.
